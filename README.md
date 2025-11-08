@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.tenor.com/Pwn9ZYb7C2QAAAAj/gengar-pokemon.gif">
+<img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif">
 </p>
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=autmrs&color=grey">
