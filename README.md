@@ -4,8 +4,11 @@
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=autmrs&color=grey">
 </p>
-    <p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/999551463363719238?theme=dark&bg=00000000&hideDiscrim=true&idleMessage=Fucking my gf"/>
+</div>
+                            <div class="flex justify-center items-center space-x-2">
+                                <div style="text-align: center;">
+                                    <a href="https://discord.com/users/999551463363719238" target="_blank">
+                                    <img src="https://lanyard-profile-readme.vercel.app/api/999551463363719238?theme=dark&bg=00000000&hideDiscrim=true&idleMessage=Fucking my gf" style="width: 300px;">
 </p>
 <div align="center">
     
