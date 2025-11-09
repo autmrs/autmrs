@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=autmrs&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/999551463363719238.png"/>
+  <img src="https://lanyard-profile-readme.vercel.app/api/999551463363719238?theme=dark&bg=00000000&hideDiscrim=true&idleMessage=Fucking my gf"/>
 </p>
 <div align="center">
     
