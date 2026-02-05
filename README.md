@@ -9,4 +9,4 @@
 </p>
 <div align="center">
     
-![jose's stats](https://github-readme-stats.vercel.app/api?username=autmrs&count_private=true&show_icons=true&theme=radical)
+
